@@ -1,0 +1,9 @@
+{
+    "spec": 1,
+    "name": "Dots",
+    "previewText": "Readable, cute and dotted",
+    "main": {
+        "dotsans-Normal": "https://github.com/akky1023/RevengeFont/blob/main/JF-Dot-MPlusH12.ttf",
+        "dotsans-Bold": "https://github.com/akky1023/RevengeFont/blob/main/JF-Dot-MPlusH12B.ttf",
+    }
+}
